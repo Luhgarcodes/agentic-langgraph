@@ -1,6 +1,4 @@
+langchain-groq
+langchain-mcp-adapters
+mcp
 langgraph
-langchain
-langsmith
-python-dotenv
-langchain-groq 
-langchain_tavily
